@@ -48,6 +48,10 @@
 		{
 			name: "Ice Cream",
 			quantities: 5
+		},
+		{
+			name: "Burger",
+			quantities: 2
 		}];
 
 		var ItemsBought = [];
